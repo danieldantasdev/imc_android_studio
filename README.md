@@ -1,5 +1,11 @@
 # imc_android_studio
 
-![imagem_1](./assets/imagem_1.png)
-![imagem_2](./assets/imagem_2.png)
-![imagem_3](./assets/imagem_3.png)
+<img src="./assets/imagem_1.png" height="400"/>
+<img src="./assets/imagem_2.png" height="400"/>
+<img src="./assets/imagem_3.png" height="400"/>
+
+---
+
+<a href="https://github.com/lobinhodev/imc_android_studio" style="font-size:2rem">
+https://github.com/lobinhodev/imc_android_studio
+</a>
