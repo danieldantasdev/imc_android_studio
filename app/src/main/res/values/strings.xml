@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tela</string>
+    <string name="hint_edittext">Coloque alguma coisa</string>
+    <string name="hint_altura">Altura</string>
+    <string name="hint_peso">Peso</string>
+    <string name="text_button">Calcular</string>
+    <string name="text_button_back">Voltar</string>
+</resources>
